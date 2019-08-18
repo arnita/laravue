@@ -1,11 +1,16 @@
 # laravue
-Project ini waktu itu saya buat sebagai tahapan belajar saya menggunakan  vuejs dan  dengan laravel 5.6
-project ini berupa blog sederhana yang hanya membuat menu post dan category saja , tapi sudah mengadopsi SPA.
+Project ini waktu itu saya buat sebagai tahapan belajar saya menggunakan  vuejs. 
+Saya implementasikan pembelajaran saya  di laravel 5.6.
+Project ini berupa blog sederhana yang hanya membuat menu post dan category saja , tapi sudah mengadopsi SPA.
+Dan untuk tampilan frontendnya saya masih menggunakan css murni(tidak menggunakan sass) dan tidak responsive serta tidak juga menggunakan bootstrap.
 
 Karena ini masih pada tahap belajar vue js  harap maklum masih sangat banyak kekurangannya, 
-Dan untuk tampilan frontendnya saya masih menggunakan css murni(tidak menggunakan sass) dan tidak responsive.
 
-Tapi mungkin agan bisa mengambil manfaat dari sini , sayang hanya di pajang di hardisk saja , jadi saya share saja , 
+Tapi mungkin agan2 bisa mengambil manfaat dari sini , sayang kalau hanya termsimpan di hardisk , jadi saya share saja , 
 Terima kasih atas perhatiannya .
 
-Waktu itu saya tidak menggunakan migrate , jadi file sql nya saya sertakan ya. 
+Di project ini   saya tidak menggunakan migrate , jadi file sql nya saya sertakan ya untuk nnti bisa diimport ke Mysql.
+
+langkah penginstalan project ini.
+
+
