@@ -11,6 +11,5 @@ Terima kasih atas perhatiannya .
 
 Di project ini   saya tidak menggunakan migrate , jadi file sql nya saya sertakan ya untuk nnti bisa diimport ke Mysql.
 
-langkah penginstalan project ini.
 
 
