@@ -11,5 +11,7 @@ Terima kasih atas perhatiannya .
 
 Di project ini   saya tidak menggunakan migrate , jadi file sql nya saya sertakan ya untuk nnti bisa diimport ke Mysql.
 
-
+Login untuk backend
+Username : manggala.corp@gmail.com
+Password : 123123
 
