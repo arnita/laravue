@@ -32,7 +32,7 @@
     "font-awesome": "^4.7.0",
     "laravel-vue-pagination": "^1.2.0",
     "vue-awesome": "^2.3.5",
-    "vue-moment": "^4.0.0-0",
+    "vue-moment": "^4.1.0",
     "vue-quill-editor": "^3.0.5",
     "vue-route": "^1.5.1",
     "vue-router": "^3.0.1",
